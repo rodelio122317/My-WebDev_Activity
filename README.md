@@ -2708,7 +2708,7 @@ body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;to
 <button class="MuiButtonBase-root MuiButton-root MuiButton-text jss13 MuiButton-colorInherit" tabindex="0" type="button"><span class="MuiButton-label"><a href="first aid.html" title="My WevDev Activity" target="_self">First Aid</a></span>
 <span class="MuiTouchRipple-root"></span>
 </button>
-<button class="MuiButtonBase-root MuiButton-root MuiButton-text jss13 MuiButton-colorInherit" tabindex="0" type="button"><span class="MuiButton-label"><a href="home.html" title="FIELDTRIP AND SEMINAR" target="_self">Home</a></span>
+<button class="MuiButtonBase-root MuiButton-root MuiButton-text jss13 MuiButton-colorInherit" tabindex="0" type="button"><span class="MuiButton-label"><a href="home.html" title="My WevDev Activity" target="_self">Home</a></span>
 <span class="MuiTouchRipple-root"></span>
 </button>
 <button class="MuiButtonBase-root MuiButton-root MuiButton-text jss13 MuiButton-colorInherit" tabindex="0" type="button"><span class="MuiButton-label"><a href="prevention.html" title="My WevDev Activity" target="_self">Prevention</a></span>
@@ -2717,7 +2717,7 @@ body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;to
 <button class="MuiButtonBase-root MuiButton-root MuiButton-text jss13 MuiButton-colorInherit" tabindex="0" type="button"><span class="MuiButton-label"><a href="quarantine procedure" title="My WevDev Activity" target="_self">Quarantine Procedures</a></span>
 <span class="MuiTouchRipple-root"></span>
 </button>
-<button class="MuiButtonBase-root MuiButton-root MuiButton-text jss13 MuiButton-colorInherit" tabindex="0" type="button"><span class="MuiButton-label"><a href="symptoms.html" title="FIELDTRIP AND SEMINARS" target="_self">Symptoms</a></span>
+<button class="MuiButtonBase-root MuiButton-root MuiButton-text jss13 MuiButton-colorInherit" tabindex="0" type="button"><span class="MuiButton-label"><a href="symptoms.html" title="My WevDev Activity" target="_self">Symptoms</a></span>
 <span class="MuiTouchRipple-root"></span>
 </button>
 <button class="MuiButtonBase-root MuiButton-root MuiButton-text jss13 MuiButton-colorInherit" tabindex="0" type="button"><span class="MuiButton-label"><a href="testing procedure.html" title="My WevDev Activity" target="_self">Testing Procedures</a></span>
